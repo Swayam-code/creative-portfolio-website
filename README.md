@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <div align="center">
   <br />
     <a href="https://youtu.be/kt0FrkQgw8w" target="_blank">
@@ -15,7 +15,7 @@
   <h3 align="center">A 3D Dev Portfolio</h3>
 
    <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!!
+     
     </div>
 </div>
 
@@ -881,6 +881,5 @@ Enjoyed creating this project? Dive deeper into our PRO courses for a richer lea
 <a href="https://www.jsmastery.pro/ultimate-next-course" target="_blank">
 <img src="https://i.ibb.co/804sPK6/Image-720.png" alt="Project Banner">
 </a>
-=======
-# creative-portfolio-website
->>>>>>> 2871ac0fd626144a64d520bb2904cd014cbb833c
+
+
