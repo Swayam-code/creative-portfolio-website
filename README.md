@@ -59,8 +59,8 @@ To get this project up and running on your local machine, follow these steps:
 
 **Setup:**
 ```bash
-git clone https://github.com/YourGitHub/threejscc-portfolio.git
-cd threejscc-portfolio
+https://github.com/Swayam-code/creative-portfolio-website.git
+cd creative-portfolio-website
 npm install
 ```
 ## Environment Variables
