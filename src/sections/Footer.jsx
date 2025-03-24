@@ -14,7 +14,7 @@ const Footer = () => {
         <a href="https://www.linkedin.com/in/swayam-prakash-kar/" target="_blank" rel="noopener noreferrer" className="social-icon">
           <img src="/assets/linkedin.svg" alt="linkedin" className="w-1/2 h-1/2" />
         </a>
-        <a href="https://leetcode.com/u/swayam_09/" target="_blank" rel="noopener noreferrer" className="social-icon">
+        <a href="https://leetcode.com/u/swayam-09/" target="_blank" rel="noopener noreferrer" className="social-icon">
           <img src="/assets/leetcode.svg" alt="leetcode" className="w-1/2 h-1/2" />
         </a>
       </div>
